@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\bin\Debug\netcoreapp3.1\YanacaqDoldurma.exe
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\bin\Debug\netcoreapp3.1\YanacaqDoldurma.deps.json
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\bin\Debug\netcoreapp3.1\YanacaqDoldurma.runtimeconfig.json
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\bin\Debug\netcoreapp3.1\YanacaqDoldurma.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\bin\Debug\netcoreapp3.1\YanacaqDoldurma.dll
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\bin\Debug\netcoreapp3.1\YanacaqDoldurma.pdb
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\obj\Debug\netcoreapp3.1\YanacaqDoldurma.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\obj\Debug\netcoreapp3.1\YanacaqDoldurma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\obj\Debug\netcoreapp3.1\YanacaqDoldurma.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\obj\Debug\netcoreapp3.1\YanacaqDoldurma.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\obj\Debug\netcoreapp3.1\YanacaqDoldurma.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\obj\Debug\netcoreapp3.1\YanacaqDoldurma.dll
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\obj\Debug\netcoreapp3.1\YanacaqDoldurma.pdb
+C:\Users\ASUS\source\repos\YanacaqDoldurma\YanacaqDoldurma\obj\Debug\netcoreapp3.1\YanacaqDoldurma.genruntimeconfig.cache
